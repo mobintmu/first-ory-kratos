@@ -30,3 +30,8 @@ your example to the repository or encounter a bug. You can contribute to Ory in
 many ways, see the
 [Ory Contributing Guidelines](https://www.ory.sh/docs/ecosystem/contributing)
 for more information.
+
+
+open database
+http://127.0.0.1:1200/?pgsql=postgres-kratos&username=kratos&db=kratos&ns=public
+

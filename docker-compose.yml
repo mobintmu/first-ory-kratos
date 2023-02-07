@@ -62,5 +62,13 @@ services:
     networks:
       - intranet
 
+
+  adminer:
+    image: adminer
+    ports:
+      - 1200:8080
+    networks:
+      - intranet
+
 networks:
   intranet:
